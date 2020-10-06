@@ -3,7 +3,11 @@ def new_hash
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  yesterdays_meals = {
+    :breakfast=>"Overnight oats",
+    :lunch=>"Breaded chicken cutlet",
+    :dinner=>"Grilled chicken thighs"
+  }
 end
 
 def pioneer
